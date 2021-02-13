@@ -19,3 +19,5 @@
 - be happy :)
 
 Everything must be working now, press CTRL+S to save and all your code will be idented, modified according to Airbnb styleguide.
+
+![](https://gph.is/g/EJgkj7e)
