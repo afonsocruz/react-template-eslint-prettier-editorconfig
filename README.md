@@ -6,7 +6,7 @@
 
 ### Setting your vscode
 
-- open the settings.json by using `CTRL+SHIFT+P` and typing `Preferences: Open Settings (JSON)`;
+- open the settings.json by pressing `CTRL+SHIFT+P` and typing `Preferences: Open Settings (JSON)`;
 - after that, add this line of code:
 
 ```
