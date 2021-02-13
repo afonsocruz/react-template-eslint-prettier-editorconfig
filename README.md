@@ -6,18 +6,20 @@
 
 ### Setting your vscode
 
-- open the settings.json by using CTRL+SHIFT+P and typing `settings`;
+- open the settings.json by using `CTRL+SHIFT+P` and typing `Preferences: Open Settings (JSON)`;
 - after that, add this line of code:
 
 ```
+...,
 "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     }
+...,
 ```
 
 - be happy :)
 
-Everything must be working now, press CTRL+S to save and all your code will be idented, modified according to Airbnb styleguide.
+Everything must be working now, press `CTRL+S` to save and all your code will be idented, modified according to Airbnb styleguide.
 
 ![](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
